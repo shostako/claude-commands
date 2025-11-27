@@ -1,4 +1,4 @@
-# Claude Commands
+# Claude Code Slash Commands
 
 A collection of custom slash commands for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
