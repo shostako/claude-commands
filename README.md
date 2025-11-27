@@ -35,23 +35,23 @@ Delete a different session:
 
 ---
 
-## Japanese
+## 日本語 / Japanese
 
 ### hard-clear
 
-`/resume`
+現在のセッションファイルを完全削除し、`/resume` でも復元できなくします。
 
-**:**
+**使い方:**
 
-:
+現在のセッションを削除:
 ```
 /hard-clear
 ```
 
-:
+別のセッションを削除:
 ```
-/resume          #
-/hard-clear      #
+/resume          # 削除したいセッションを選択
+/hard-clear      # 削除実行
 ```
 
 ## License
